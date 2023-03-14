@@ -25,6 +25,8 @@ To run the app, follow these steps:
     * Clone the repository
     * Open the project in Android Studio
     * Build and run the app on your device or emulator
+Or:
+<a>https://github.com/u3frajaeian/Owlestic/releases/tag/v1.0.0</a>
 
 # Technologies Used
 
