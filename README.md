@@ -1,6 +1,6 @@
 
 
-#Owlestic Code Challenge
+# Owlestic Code Challenge
 App is an Android application that allows users to search for Github users and add them to their favorites list.
 Features
 
