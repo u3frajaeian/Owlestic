@@ -15,7 +15,9 @@ Features
 
 Include screenshots of the app's main screens and features to give users a visual idea of what the app looks like and how it works.
 Installation
-
+[Favourite Page](./screens/favourite.png)
+[Search Page](./screens/search.png)
+[Profile Page](./screens/profile.png)
 To run the app, follow these steps:
 
     * Clone the repository
