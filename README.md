@@ -13,9 +13,9 @@ Features
 
 # Screenshots
 
-![Favourite Page](./screens/favourite.png)
-![Search Page](./screens/search.png)
-![Profile Page](./screens/profile.png)
+![Favourite Page](./screens/favourite.png) ![Search Page](./screens/search.png) ![Profile Page](./screens/profile.png)
+
+
 
 # Installation
 
