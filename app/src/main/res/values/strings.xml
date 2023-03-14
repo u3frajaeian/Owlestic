@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">@string/github_users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="githubIcon">AppLogo</string>
+    <string name="github_users">GithubUsers</string>
+    <string name="search">Search Some User</string>
+    <string name="setting">setting</string>
+    <string name="lang">lang</string>
+    <string name="favourites">Favourite User</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="fab_favorite">favorite</string>
+    <string name="no_data_available">No Data Available</string>
+</resources>
