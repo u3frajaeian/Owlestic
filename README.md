@@ -13,9 +13,9 @@ Features
 
 # Screenshots
 <p align="center">
-<img src="./screens/favourite.png" width="350" title="hover text">
-  <img src="./screens/search.png" width="350" alt="accessibility text">
-  <img src="./screens/profile.png" width="350" alt="accessibility text">
+<img src="./screens/favourite.png" width="310" >
+  <img src="./screens/search.png" width="310" >
+  <img src="./screens/profile.png" width="310" >
    </p>
 
 # Installation
