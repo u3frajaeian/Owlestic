@@ -4,7 +4,6 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.u3f.owlesticchallenge.databinding.FavouriteUsersListItemBinding
-import com.u3f.owlesticchallenge.databinding.FavsListItemBinding
 import com.u3f.owlesticchallenge.domain.model.profile.ProfileModel
 import com.u3f.owlesticchallenge.presentation.extension.load
 
