@@ -13,9 +13,9 @@ Features
 
 # Screenshots
 
-![Favourite Page](./screens/favourite.png) ![Search Page](./screens/search.png) ![Profile Page](./screens/profile.png)
-
-
+<img src="./screens/favourite.png" width="350" title="hover text">
+  <img src="./screens/search.png" width="350" alt="accessibility text">
+  <img src="./screens/profile.png" width="350" alt="accessibility text">
 
 # Installation
 
